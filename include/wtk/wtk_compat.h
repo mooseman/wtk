@@ -22,7 +22,9 @@
 // ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     
 // OTHER DEALINGS IN THE SOFTWARE.                                           
 
-// For more information, please refer to <http://unlicense.org/>             
+// For more information, please refer to <http://unlicense.org/>    
+
+// Author: Michael Williams (mtwilliams)           
 
 
 #ifndef _WTK_COMPAT_H_
